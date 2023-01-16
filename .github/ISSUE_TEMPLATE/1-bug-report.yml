@@ -13,8 +13,6 @@ body:
     attributes:
       label: Command
       description: Can you pin-point the command or commands that are effected by this bug?
-      options:
-        - add
         - build
         - config
         - doc
